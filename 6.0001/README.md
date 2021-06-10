@@ -1,4 +1,4 @@
-# Introduction to Computer Science and Programming in Python
+<h1 align = center > Introduction to Computer Science and Programming in Python </h1>
 
 <p align="center">
   <img src="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/6-0001f16.jpg">
@@ -9,7 +9,11 @@
 
 ---
 
-### [Lecture 1](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) : What is Computation ?
+<h2 align = center > Lecture 1 : What is Computation ?</h2>
+
+&nbsp;
+
+[Lecture Video on Youtube](https://www.youtube.com/watch?v=nykOeWgQcHM&t=537s)
 
 &nbsp;
 
@@ -24,6 +28,12 @@
 > What does a computer do ?
 - performs calcualtions
 - high effecient memory
+- computers know only what you tell them
 
+&nbsp;
 
+> Types of Knowledge
+- **decalarative knwoledge** : statement of fact
+- **imperative knowldge** : is recipe or the "how - to" (steps)
+- 
 
