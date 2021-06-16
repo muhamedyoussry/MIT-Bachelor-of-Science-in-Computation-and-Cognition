@@ -33,7 +33,43 @@
 &nbsp;
 
 > Types of Knowledge
-- **decalarative knwoledge** : statement of fact
-- **imperative knowldge** : is recipe or the "how - to" (steps)
-- 
+- **decalarative knwoledge:** statement of fact
+- **imperative knowldge:** is recipe or the "how - to" (steps)
 
+&nbsp;
+
+> Basic Machine Architucture
+- Input
+- Output
+- Memory: Stores data and instructions sequence
+- ALU (Arithmetic logic unit): do premetive operations (addition - subtraction)
+- Control Unit: Program counter to control the sequence of instructions
+ 
+
+&nbsp;
+
+> Aspects of languages
+- *semanticsis* the meaning associated with a **syntactically correct** string of symbols with **no static semantic errors**
+
+&nbsp;
+
+> Python Objects
+- everything in python is object
+- objects are
+  - **scalar** (cannot be subdivided)
+    - *int* ; represents intergs, ex. 5
+    - *float* ; represents real numbers, ex. 3.2
+    - *bool* ; represetns boolean value True or False
+    - *NoneType* ; special and has one value, None
+    - You can type casting (convert object of one type to another)
+  - **non-scalar** (have internal structure that can be accessed)
+
+&nbsp;
+
+> operators on ints and floats
+- i+j : the **sum**
+- i-j : the **difference**
+- i*j : the **product**
+- i/j : **division**
+- i%j : the **remainder** when i is divided by j
+- i\**j : i to the **power** of j
