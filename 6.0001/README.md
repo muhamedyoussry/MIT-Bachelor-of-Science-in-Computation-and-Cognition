@@ -73,3 +73,44 @@
 - i/j : **division**
 - i%j : the **remainder** when i is divided by j
 - i\**j : i to the **power** of j
+
+---
+
+<h2 align = center > Lecture 2 : Branching and Iteration</h2>
+
+&nbsp;
+
+[Lecture Video on Youtube](https://www.youtube.com/watch?v=0jljZRnHwOI&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=5)
+
+&nbsp;
+
+
+> Strings
+- letters, special characters, spaces, digits
+- enclose in quotation double or single
+- we can concatentate strings
+
+``` python
+name = "Hana"
+new_string = ( " hi " + name )*2 # hi Hana hi Hana
+
+```
+
+> Input/Output
+- for printing output use ; print()
+- for inserting input from user ; input()
+
+> comparison operators
+- the result of comparison operators give you boolean (True or False)
+- \>, <, >=, <=, ==, !=
+
+
+> logic operators
+- and, or, not
+- you can back to the truth table
+
+> control flow - branching
+- if
+- if - else
+- if - elif - else
+- 
