@@ -95,22 +95,38 @@ name = "Hana"
 new_string = ( " hi " + name )*2 # hi Hana hi Hana
 
 ```
+&nbsp;
 
 > Input/Output
 - for printing output use ; print()
 - for inserting input from user ; input()
 
+&nbsp;
+
 > comparison operators
 - the result of comparison operators give you boolean (True or False)
 - \>, <, >=, <=, ==, !=
 
+&nbsp;
 
 > logic operators
 - and, or, not
 - you can back to the truth table
 
+&nbsp;
+
 > control flow - branching
 - if
 - if - else
 - if - elif - else
-- 
+
+&nbsp;
+
+> control flow - iteration
+- for loop
+  - used when know the number of iterations
+  - can end early via break
+  - uses a counter
+- while loop
+  - unbounded number of iterations
+  - can end early via break
