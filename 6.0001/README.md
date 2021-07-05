@@ -163,4 +163,8 @@ new_string = ( " hi " + name )*2 # hi Hana hi Hana
 > Functinos
 - *abstraction idea*: do not need to know how function deeply works to use it
 - *decompistion idea*: different function can work together to achieve an end goal (solve a problem with an algorithm consist of decomposed functions)
-- 
+- we can achieve decompisition (code divided into modules) and abstraction (black box) with functions
+- functions are useable chunks of code
+- functions have a name, input, algorithm, and output
+- python returns the value *None*, if no return given
+
