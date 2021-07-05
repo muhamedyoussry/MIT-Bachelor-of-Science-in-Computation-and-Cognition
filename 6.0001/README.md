@@ -130,3 +130,37 @@ new_string = ( " hi " + name )*2 # hi Hana hi Hana
 - while loop
   - unbounded number of iterations
   - can end early via break
+
+---
+
+<h2 align = center > Lecture 3 : String Manipulation, Guess and Check, Approximations, Bisection </h2>
+
+&nbsp;
+
+[Lecture Video on Youtube](https://www.youtube.com/watch?v=SE4P7IVCunE&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=11)
+
+&nbsp;
+
+> Strings
+- sequence of case sensitivea characters
+- can compare strings with == , < , >
+- you can retrieve the length of the string
+- you can perform *indexing* on strings using square brackets
+- you can retrieve sub strings from a string through *slicing*
+- strings are *immutable* - cannot be changed
+
+
+---
+
+<h2 align = center > Lecture 4 : Decomposition, Abstraction, and Functions </h2>
+
+&nbsp;
+
+[Lecture Video on Youtube](https://www.youtube.com/watch?v=MjbuarJ7SE0&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=14)
+
+&nbsp;
+
+> Functinos
+- *abstraction idea*: do not need to know how function deeply works to use it
+- *decompistion idea*: different function can work together to achieve an end goal (solve a problem with an algorithm consist of decomposed functions)
+- 
