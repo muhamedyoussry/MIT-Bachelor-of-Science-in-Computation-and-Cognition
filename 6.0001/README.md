@@ -166,5 +166,22 @@ new_string = ( " hi " + name )*2 # hi Hana hi Hana
 - we can achieve decompisition (code divided into modules) and abstraction (black box) with functions
 - functions are useable chunks of code
 - functions have a name, input, algorithm, and output
+- sometimes functions have docstring (the role of the function or description); it is optional but recommmended
 - python returns the value *None*, if no return given
+- you can have only one return executed inside a function
+- the code inside a function but after a return statement not executed
+- you can enter a function as an argument for another function
+- inside a function, can access a variable outside but cannot modify it
 
+---
+
+<h2 align = center > Lecture 5 : Tuples, Lists, Aliasing, Mutability, and Cloning </h2>
+
+&nbsp;
+
+[Lecture Video on Youtube](https://www.youtube.com/watch?v=RvRKT-jXvko&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=18)
+
+&nbsp;
+
+> Headline
+- 
